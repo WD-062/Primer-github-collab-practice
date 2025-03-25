@@ -39,7 +39,7 @@ a {
 
 .hero {
     min-height: 33vh;
-    background-color: pink;
+    background-color: #4c5fd5;
     display: flex;
     flex-direction: column;
     justify-content: center;

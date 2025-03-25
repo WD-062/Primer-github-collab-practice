@@ -39,7 +39,7 @@ a {
 
 .hero {
     min-height: 33vh;
-    background-color: #4c5fd5;
+    background-color: rgb(202, 43, 181);
     display: flex;
     flex-direction: column;
     justify-content: center;
